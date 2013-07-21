@@ -1,4 +1,4 @@
-source "http://ruby.taobao.org/"
+source "http://rubygems.org"
 
 gem 'bundler', '>= 1.0.10'
 gem 'rake'

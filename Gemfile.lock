@@ -25,7 +25,7 @@ GIT
       yajl-ruby (~> 0.8.3)
 
 GEM
-  remote: http://rubygems.org/
+  remote: http://ruby.taobao.org/
   specs:
     builder (3.0.0)
     ci_reporter (1.6.4)
